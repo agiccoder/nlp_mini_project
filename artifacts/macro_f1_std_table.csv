@@ -1,0 +1,6 @@
+n_per_class,Local Word2Vec + MLP,Pretrained GloVe + MLP,TF-IDF + Logistic Regression
+100,0.0422,0.0455,0.0313
+300,0.0331,0.0222,0.0292
+600,0.0129,0.0172,0.0216
+1000,0.0185,0.0099,0.0144
+2000,0.0109,0.0063,0.0042

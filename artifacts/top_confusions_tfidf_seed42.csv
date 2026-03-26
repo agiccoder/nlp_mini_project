@@ -1,0 +1,21 @@
+true_label,predicted_label,count
+Debt collection,Credit reporting,53
+Bank account or service,Credit card,52
+Credit card,Debt collection,40
+Credit reporting,Debt collection,39
+Credit card,Credit reporting,30
+Credit card,Bank account or service,27
+Credit reporting,Credit card,24
+Mortgage,Bank account or service,18
+Bank account or service,Mortgage,16
+Credit reporting,Mortgage,15
+Debt collection,Credit card,14
+Bank account or service,Credit reporting,14
+Mortgage,Credit reporting,12
+Debt collection,Mortgage,10
+Mortgage,Debt collection,9
+Debt collection,Bank account or service,8
+Mortgage,Credit card,7
+Bank account or service,Debt collection,6
+Credit reporting,Bank account or service,5
+Credit card,Mortgage,3
