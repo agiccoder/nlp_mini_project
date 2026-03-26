@@ -7,7 +7,7 @@ Mini-project for **Natural Language Processing (NLP) in Python**.
 ```text
 NLP_project_updated/
 ├── README.md
-├── consumer_complaints_full_pipeline_stronger.ipynb
+├── consumer_complaints.ipynb
 ├── consumer_complaints_small.csv
 ├── requirements.txt
 ├── artifacts/
@@ -35,7 +35,7 @@ NLP_project_updated/
 
 Use this notebook for grading and reproduction:
 
-- **`consumer_complaints_full_pipeline_stronger.ipynb`**
+- **`consumer_complaints.ipynb`**
 
 ## Main finding
 
@@ -67,7 +67,7 @@ pip install -r requirements.txt
 Open and run:
 
 ```bash
-jupyter notebook consumer_complaints_full_pipeline_stronger.ipynb
+jupyter notebook consumer_complaints.ipynb
 ```
 
 Make sure `consumer_complaints_small.csv` is in the project root.
